@@ -1,4 +1,4 @@
-package desafio;
+package br.com.alura.desafio;
 
 import java.util.Scanner;
 
@@ -17,7 +17,8 @@ public class Desafio {
 		System.out.println("\n-----------------------------");
 		
 		String menu = """
-				*** Digite sua opção ***
+				-----------------------------
+				\n*** Digite sua opção ***
 				1) Consultar saldo
 				2) Transferir valor
 				3) Receber valor
